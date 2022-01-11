@@ -1,8 +1,8 @@
-# Ministry of Justice Technical Operations team repository
+# Ministry of Justice Technology Operations team repository
 
 ## About this Repository
 
-This is the Ministry of Justice [Technical Operations team](https://ministryofjustice.github.io/technical-operations) public repository for central documentation and links to team sites.
+This is the Ministry of Justice [Technology Operations team](https://ministryofjustice.github.io/technology-operations) public repository for central documentation and links to team sites.
 
 ## Ministry of Justice Official - Staff Infrastructure and Devices repositories
 
@@ -115,13 +115,14 @@ Optional Tags
 | `runbook`                | `The URL of the service’s runbook.`                       |
 | `source-code`            | `The URL(s) for any source code repositories related to this infrastructure, comma separated.` |
 
-Please see [Documenting owners of infrastructure](https://ministryofjustice.github.io/technical-guidance/documentation/standards/documenting-infrastructure-owners.html#documenting-owners-of-infrastructure) within MoJ Technical Guidance for more information on tagging.
+Please see [Documenting owners of infrastructure](https://ministryofjustice.github.io/
+technical-guidance/documentation/standards/documenting-infrastructure-owners.html#documenting-owners-of-infrastructure) within MoJ Technical Guidance for more information on tagging.
 
 
 ## About this Website
 
-This repository is published via Github Pages [here](https://ministryofjustice.github.io/technical-operations/#technical-operations)
+This repository is published via Github Pages [here](https://ministryofjustice.github.io/technology-operations/#technology-operations)
 
-To update, edit files in [this directory](https://github.com/ministryofjustice/technical-operations/tree/main/source).
+To update, edit files in [this directory](https://github.com/ministryofjustice/technology-operations/tree/main/source).
 
 Filenames must be `[something].html.md.erb`
