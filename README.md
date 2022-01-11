@@ -2,7 +2,7 @@
 
 ## About this Repository
 
-This is the Ministry of Justice [technology Operations team](https://ministryofjustice.github.io/technology-operations) public repository for central documentation and links to our other team sites.
+This is the Ministry of Justice [Technology Operations team](https://ministryofjustice.github.io/technology-operations) public repository for central documentation and links to our other team sites.
 
 ## About this Website
 
