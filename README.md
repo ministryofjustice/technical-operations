@@ -115,8 +115,7 @@ Optional Tags
 | `runbook`                | `The URL of the service’s runbook.`                       |
 | `source-code`            | `The URL(s) for any source code repositories related to this infrastructure, comma separated.` |
 
-Please see [Documenting owners of infrastructure](https://ministryofjustice.github.io/
-technical-guidance/documentation/standards/documenting-infrastructure-owners.html#documenting-owners-of-infrastructure) within MoJ Technical Guidance for more information on tagging.
+Please see [Documenting owners of infrastructure](https://ministryofjustice.github.io/technical-guidance/documentation/standards/documenting-infrastructure-owners.html#documenting-owners-of-infrastructure) within MoJ Technical Guidance for more information on tagging.
 
 
 ## About this Website
